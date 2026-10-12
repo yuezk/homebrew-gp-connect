@@ -1,6 +1,6 @@
 cask "gp-connect" do
-  version "3.0.3"
-  sha256 "001450e99a24c32a31dde6b712c3688504d55d8d8eece2e3cbafbf9a4233372a"
+  version "3.0.4"
+  sha256 "a0a22c98e54516820d2980e2e2091a357f3399db0dc6d8e26864d6bc47ed9f6f"
 
   url "https://github.com/yuezk/GlobalProtect-openconnect/releases/download/v#{version}/GPConnect_#{version}_arm64.dmg"
   name "GP Connect"
